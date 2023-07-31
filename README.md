@@ -1,5 +1,5 @@
 # frabbity
-A simple Flappy Bird clone with changes. ===> https://hiramisu.itch.io/frabbity
+Inspired by Flappy Bird ===> https://hiramisu.itch.io/frabbity
 
 
 
